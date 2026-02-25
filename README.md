@@ -30,4 +30,49 @@ A classe diz como deve ser, e o objeto é a execução dessa definição. Você 
 #### Resumo rápido: 
 Uma classe (molde) possui atributos (características) e métodos (ações). Quando damos vida a esse molde, criamos um objeto, cujos dados específicos são armazenados em variáveis.
 
+#### Metódos, Atributos e Classes: 
+
+
+public class Main{
+    public static void main(String args[]) {
+        
+        int ano_nasciento= 1985;
+        String nome = "El Pepe";
+        double peso = 76.2;
+        
+        mostrar_dados(nome,ano_nasciento,peso);
+        
+        
+         
+    }
+    
+    public static void mostrar_dados (String n, int a , double p){//método mostrar dados
+        System.out.println("nome = " +n);
+        System.out.println("Nascimento = "  +a);
+        System.out.println("Peso = "+  p);
+        
+    }
+    
+	
+}
+/*public class Aluno{
+    public void solicitar_VT(){
+         diversos códigos para poder efetuar a solictação
+        
+    }
+    public void fazer_login(int RA, int senha){
+    
+    
+    } 
+    public void pegar_livro(){
+       
+    }
+    public void pagar_boleto(){
+        
+    } 
+    ****/
+
+
+
+
 

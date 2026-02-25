@@ -55,7 +55,7 @@ public class Main{
     
 	
 }
-/*public class Aluno{
+public class Aluno{
     public void solicitar_VT(){
          diversos códigos para poder efetuar a solictação
         
@@ -70,7 +70,7 @@ public class Main{
     public void pagar_boleto(){
         
     } 
-    ****/
+
 
 
 

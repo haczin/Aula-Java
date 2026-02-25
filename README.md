@@ -72,6 +72,11 @@ public class Aluno{
     } 
 
 
+	//Objeto é um agrupamento de variaveis que fica dentro de uma classe;
+    Aluno al = new Aluno();
+    mostrar_dados(al);
+
+
 
 
 

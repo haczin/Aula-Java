@@ -27,6 +27,6 @@ trocarMarcha()
 #### 6. Qual a relação entre Classe e Objeto?
 A classe diz como deve ser, e o objeto é a execução dessa definição. Você pode usar uma única classe para criar milhares de objetos diferentes (vários bolos com sabores diferentes usando a mesma forma).
 
-## Resumo rápido: Uma classe (molde) possui atributos (características) e métodos (ações). Quando damos vida a esse molde, criamos um objeto, cujos dados específicos são armazenados em variáveis.
+#### Resumo rápido: Uma classe (molde) possui atributos (características) e métodos (ações). Quando damos vida a esse molde, criamos um objeto, cujos dados específicos são armazenados em variáveis.
 
 
